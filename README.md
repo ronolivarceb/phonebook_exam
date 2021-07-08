@@ -1,7 +1,7 @@
 # phonebook_exam
 A simple react application that uses a node server as its restful data source.
 
-![](./screenshot.png)
+![](./screenshot.PNG)
 
 The API is written in Node and uses the Express Framework. It uses a simple json file as its database.
 it exposes a list of phones via the http://localhost:3005/phones/ endpoint. 
