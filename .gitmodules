@@ -1,0 +1,6 @@
+[submodule "phonebook-app"]
+	path = phonebook-app
+	url = git@github.com:ronolivarceb/phonebook-app.git
+[submodule "phonebook-server"]
+	path = phonebook-server
+	url = git@github.com:ronolivarceb/phonebook-server.git
